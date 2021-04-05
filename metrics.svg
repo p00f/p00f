@@ -2077,10 +2077,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5217391304347827 0,1.5217391304347827 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5217391304347827 1.7,2.5217391304347827 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.478260869565218)">
+                            <g transform="translate(-1.7, 6.217391304347826)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5217391304347827 0,1.5217391304347827 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5217391304347827 1.7,2.5217391304347827 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.782608695652174 0,1.7826086956521738 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7826086956521738 1.7,2.782608695652174 z"/>
                             </g>
                         </g>
                     </g>
@@ -2098,14 +2098,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.87704990599985" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="208.87704990599985" y="0" width="174.36884507423667" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="383.2458949802365" y="0" width="30.023695324990495" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="413.269590305227" y="0" width="18.908244410767573" height="8" fill="#db5855"/>
-                    <rect mask="url(#languages-bar)" x="432.17783471599455" y="0" width="15.156779727217335" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.3346144432119" y="0" width="6.678852833804636" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.01346727701656" y="0" width="4.855823061019367" height="8" fill="#1e4aec"/>
-                    <rect mask="url(#languages-bar)" x="458.8692903380359" y="0" width="1.130709661964056" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.18861970949487" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="209.18861970949487" y="0" width="173.94278561556314" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="383.13140532505804" y="0" width="30.068479933241196" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="413.1998852582992" y="0" width="18.936448744360707" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="432.13633400265996" y="0" width="15.179388218113543" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.3157222207735" y="0" width="6.688815291939395" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.0045375127129" y="0" width="4.863066211176885" height="8" fill="#1e4aec"/>
+                    <rect mask="url(#languages-bar)" x="458.8676037238898" y="0" width="1.1323962761102562" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2225,7 +2225,7 @@
                                             theHamsta/nvim-treesitter-pairs
                                         </span>
                                         <span>
-                                            starred 3 hours ago
+                                            starred 4 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2282,7 +2282,7 @@
                                             null-dev/firefox-profile-switcher
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2306,7 +2306,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        11
+                                        12
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2340,7 +2340,7 @@
                                             thepowersgang/mrustc
                                         </span>
                                         <span>
-                                            starred 9 hours ago
+                                            starred 10 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2376,7 +2376,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                         </svg>
-                                        98
+                                        99
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2398,7 +2398,7 @@
                                             GustavoPrietoP/nvim-ts-rainbow
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 12 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2422,7 +2422,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        3
+                                        4
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
