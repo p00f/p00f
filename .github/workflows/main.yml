@@ -14,7 +14,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          #base: header
           plugin_stars: yes
           plugin_isocalendar: yes
           plugin_languages: yes
