@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1105" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1065" class="">
     <defs>
         <style/>
     </defs>
@@ -1361,24 +1361,16 @@
             </section>
             <section>
                 <h2 class="field">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"/></svg>
-        Starred topics
-      </h2>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"/>
+                    </svg>
+                </h2>
                 <div class="row">
                     <section>
-                        <div class="topics fill-width">
-                            <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
-                            <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
-                            <div class="label" title="Rust is a systems programming language created by Mozilla.">rust</div>
-                            <div class="label" title="Firefox is an open source web browser from Mozilla.">firefox</div>
-                            <div class="label" title="Emacs is an extensible, customizable, free text editor and computing environment.">emacs</div>
-                            <div class="label" title="Clojure is a dynamic, general-purpose programming language.">clojure</div>
-                            <div class="label" title="Vim-fork focused on extensibility and usability.">neovim</div>
-                            <div class="label" title="">wayland</div>
-                            <div class="label" title="">gtk</div>
-                            <div class="label" title="">sway</div>
-                            <div class="label" title="">compositor</div>
-                        </div>
+                        <div class="field error">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
+              An error occured
+            </div>
                     </section>
                 </div>
             </section>
@@ -2428,7 +2420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>L3MON4D3/LuaSnip</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2470,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hrsh7th/nvim-cmp</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2589,7 +2581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 01 Jul 2021 16:14:46  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 01 Jul 2021 17:20:37  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
