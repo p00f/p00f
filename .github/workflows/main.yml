@@ -20,4 +20,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_stars: yes
-          #config_order: base, isocalendar, languages, topics, stars
+          #config_order: base, languages, topics, stars
