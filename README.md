@@ -1,5 +1,5 @@
 ### Hi there 👋
-GPG: `0x2c930df41c88d2a3`
+PGP: `0x2c930df41c88d2a3`
 <!--
 **p00f/p00f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
