@@ -1,4 +1,4 @@
 ### Hi there 👋
-PGP: [`0x2c930df41c88d2a3`](https://github.com/p00f.gpg)
+PGP: [`F15BF0D321234D88`](https://meta.sr.ht/~p00f.pgp)
 
 Also https://sr.ht/~p00f
